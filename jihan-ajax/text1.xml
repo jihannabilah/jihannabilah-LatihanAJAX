@@ -1,3 +1,5 @@
 <text>
-<isi> Ini adalah tulisan yang ada di dalam file Text1.txt </isi>
+<isi> Ini adalah tulisan yang ada di dalam file Text1.txt </isi><br>
+  <editor>nama : hendra </editor><br>
+  <no>No.absen  : 12 </no>
 </text>
